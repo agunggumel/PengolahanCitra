@@ -1,0 +1,49 @@
+c:\users\asus\documents\visual studio 2010\Projects\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\pengolahanCitra\pengolahanCitra\bin\Debug\pengolahanCitra.exe
+c:\users\asus\documents\visual studio 2010\Projects\pengolahanCitra\pengolahanCitra\bin\Debug\pengolahanCitra.pdb
+c:\users\asus\documents\visual studio 2010\Projects\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.exe
+c:\users\asus\documents\visual studio 2010\Projects\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csprojResolveAssemblyReference.cache
+C:\Users\nazriel\Downloads\Compressed\pengolahanCitra\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.exe
+C:\Users\nazriel\Downloads\Compressed\pengolahanCitra\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.pdb
+C:\Users\nazriel\Downloads\Compressed\pengolahanCitra\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csprojResolveAssemblyReference.cache
+C:\Users\nazriel\Downloads\Compressed\pengolahanCitra\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.Form1.resources
+C:\Users\nazriel\Downloads\Compressed\pengolahanCitra\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.Properties.Resources.resources
+C:\Users\nazriel\Downloads\Compressed\pengolahanCitra\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csproj.GenerateResource.Cache
+C:\Users\nazriel\Downloads\Compressed\pengolahanCitra\pengolahanCitra\pengolahanCitra\bin\Debug\pengolahanCitra.exe
+C:\Users\nazriel\Downloads\Compressed\pengolahanCitra\pengolahanCitra\pengolahanCitra\bin\Debug\pengolahanCitra.pdb
+C:\Users\Dani Daffa\Downloads\aa\pengolahanCitra\pengolahanCitra\bin\Debug\pengolahanCitra.exe
+C:\Users\Dani Daffa\Downloads\aa\pengolahanCitra\pengolahanCitra\bin\Debug\pengolahanCitra.pdb
+C:\Users\Dani Daffa\Downloads\aa\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csprojAssemblyReference.cache
+C:\Users\Dani Daffa\Downloads\aa\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.Form1.resources
+C:\Users\Dani Daffa\Downloads\aa\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.Properties.Resources.resources
+C:\Users\Dani Daffa\Downloads\aa\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csproj.GenerateResource.cache
+C:\Users\Dani Daffa\Downloads\aa\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.exe
+C:\Users\Dani Daffa\Downloads\aa\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.pdb
+C:\Users\Dani Daffa\Downloads\TUGAS1_0617101012_0617101002_0617101016 (1)\TUGAS1_0617101012_0617101002_0617101016\pengolahanCitra\pengolahanCitra\bin\Debug\pengolahanCitra.exe
+C:\Users\Dani Daffa\Downloads\TUGAS1_0617101012_0617101002_0617101016 (1)\TUGAS1_0617101012_0617101002_0617101016\pengolahanCitra\pengolahanCitra\bin\Debug\pengolahanCitra.pdb
+C:\Users\Dani Daffa\Downloads\TUGAS1_0617101012_0617101002_0617101016 (1)\TUGAS1_0617101012_0617101002_0617101016\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csprojAssemblyReference.cache
+C:\Users\Dani Daffa\Downloads\TUGAS1_0617101012_0617101002_0617101016 (1)\TUGAS1_0617101012_0617101002_0617101016\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.Form1.resources
+C:\Users\Dani Daffa\Downloads\TUGAS1_0617101012_0617101002_0617101016 (1)\TUGAS1_0617101012_0617101002_0617101016\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.Properties.Resources.resources
+C:\Users\Dani Daffa\Downloads\TUGAS1_0617101012_0617101002_0617101016 (1)\TUGAS1_0617101012_0617101002_0617101016\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csproj.GenerateResource.cache
+C:\Users\Dani Daffa\Downloads\TUGAS1_0617101012_0617101002_0617101016 (1)\TUGAS1_0617101012_0617101002_0617101016\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.exe
+C:\Users\Dani Daffa\Downloads\TUGAS1_0617101012_0617101002_0617101016 (1)\TUGAS1_0617101012_0617101002_0617101016\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.pdb
+C:\Users\Dani Daffa\Downloads\TUGAS1_06101015_0617101020_0617101011\TUGAS1_06101015_0617101020_0617101011\pengolahanCitra\pengolahanCitra\bin\Debug\pengolahanCitra.exe
+C:\Users\Dani Daffa\Downloads\TUGAS1_06101015_0617101020_0617101011\TUGAS1_06101015_0617101020_0617101011\pengolahanCitra\pengolahanCitra\bin\Debug\pengolahanCitra.pdb
+C:\Users\Dani Daffa\Downloads\TUGAS1_06101015_0617101020_0617101011\TUGAS1_06101015_0617101020_0617101011\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csprojAssemblyReference.cache
+C:\Users\Dani Daffa\Downloads\TUGAS1_06101015_0617101020_0617101011\TUGAS1_06101015_0617101020_0617101011\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.Form1.resources
+C:\Users\Dani Daffa\Downloads\TUGAS1_06101015_0617101020_0617101011\TUGAS1_06101015_0617101020_0617101011\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.Properties.Resources.resources
+C:\Users\Dani Daffa\Downloads\TUGAS1_06101015_0617101020_0617101011\TUGAS1_06101015_0617101020_0617101011\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csproj.GenerateResource.cache
+C:\Users\Dani Daffa\Downloads\TUGAS1_06101015_0617101020_0617101011\TUGAS1_06101015_0617101020_0617101011\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.exe
+C:\Users\Dani Daffa\Downloads\TUGAS1_06101015_0617101020_0617101011\TUGAS1_06101015_0617101020_0617101011\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.pdb
+D:\pengolahanCitra\pengolahanCitra\bin\Debug\pengolahanCitra.exe
+D:\pengolahanCitra\pengolahanCitra\bin\Debug\pengolahanCitra.pdb
+D:\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csprojAssemblyReference.cache
+D:\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.Form1.resources
+D:\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.Properties.Resources.resources
+D:\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csproj.GenerateResource.cache
+D:\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.csproj.CoreCompileInputs.cache
+D:\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.exe
+D:\pengolahanCitra\pengolahanCitra\obj\x86\Debug\pengolahanCitra.pdb
